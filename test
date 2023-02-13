@@ -3,5 +3,8 @@ sdadasdasd
 =======
 commit 1
 commit 2
+<<<<<<< HEAD
 commit 3
 >>>>>>> 705829d... commit3
+=======
+>>>>>>> 15a4e6b... commit2
